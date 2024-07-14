@@ -7,7 +7,7 @@ The aim of proliferation experiment is to measure the change of cell proliferati
 
 ## Pipeline 
 General piepline
-![Pipeline](Asset/CellProfiler Pipeline-normal pipeline.drawio.png)
+![Pipeline]("Asset/CellProfiler Pipeline-normal pipeline.drawio.png")
 
 ## Example
 Time-lapse of spheroids growth (original)
