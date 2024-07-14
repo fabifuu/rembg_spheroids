@@ -5,11 +5,13 @@ This repository provides a pipeline for improving image quality from Cell-IQ sou
 ## Background
 The aim of proliferation experiment is to measure the change of cell proliferation over time, by measuring its area. To measure the area, we need to separate the object with background. Usually, it was done using thresholding method. However, since the thresholding method is very sensitive to the exposure, brightness, and grayscale (gray-ness level) of surrounding object, the area is not perfectly captured. This problem also worsened by the precipitation of drugs/inhibitor or dried well. Thus, the quality of original images are important
 
-## Pipeline
+## Pipeline 
+General piepline
+![Pipeline](Asset/CellProfiler Pipeline-normal pipeline.drawio.png)
 
 ## Example
 Time-lapse of spheroids growth (original)
 ![Before](Asset/before.gif)
 
 Time-lapse of spheroids growth after running the pipeline
-![After](Asset/After.gif)
+![After](Asset/after.gif)
